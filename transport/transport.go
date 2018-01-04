@@ -3,7 +3,7 @@ package transport
 import (
 	"context"
 	"encoding/json"
-	"github.com/arnerjohn/transport-example/service"
+	"github.com/arnerjohn/go-kit-basic/service"
 	"github.com/go-kit/kit/endpoint"
 	"net/http"
 )

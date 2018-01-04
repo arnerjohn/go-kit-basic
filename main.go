@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/arnerjohn/transport-example/service"
-	"github.com/arnerjohn/transport-example/transport"
+	"github.com/arnerjohn/go-kit-basic/service"
+	"github.com/arnerjohn/go-kit-basic/transport"
 	httptransport "github.com/go-kit/kit/transport/http"
 	"log"
 	"net/http"
